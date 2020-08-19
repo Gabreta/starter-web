@@ -13,3 +13,6 @@ neco neco, to je neco
 ## Deployment
 
 neco dalsiho a dalsiho
+
+##
+copyright message
