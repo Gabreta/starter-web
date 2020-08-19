@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-neco neco
+neco neco, to je neco
 
 ## Deployment
+
+neco dalsiho
