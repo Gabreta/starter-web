@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-neco neco, to je neco
+neni nic snadnejsiho
 
 ## Deployment
 
